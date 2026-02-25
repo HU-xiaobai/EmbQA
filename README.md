@@ -1,4 +1,4 @@
-# Beyond Prompting: An Efficient Embedding Framework for Open-Domain Question Answering
+# EmbQA
 
 ## Introduction
 
